@@ -1,0 +1,11 @@
+# 语音模型与参考录音：文件太大，不进仓库（GitHub 单文件上限 100 MB）
+voice/model_28000.pt
+voice/标准录音*.wav
+
+# 配音方案的临时产物
+build/fishkey.txt
+
+# 依赖与产物
+node_modules/
+build/node_modules/
+*.log
